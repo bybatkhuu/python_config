@@ -1,0 +1,11 @@
+{
+    "app":
+    {
+        "logs_dir": "/var/log/app"
+    },
+    "opt":
+    {
+        "val": "optional value",
+        "integer": 123
+    }
+}

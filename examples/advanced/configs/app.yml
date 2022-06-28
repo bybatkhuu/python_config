@@ -1,0 +1,8 @@
+env: development
+
+app:
+    name: "My App"
+    host: 0.0.0.0
+    port: 80
+    secret: "my-secret"
+    debug: false

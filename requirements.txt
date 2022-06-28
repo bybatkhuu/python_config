@@ -1,0 +1,4 @@
+python-dotenv==0.20.0
+Cerberus==1.3.4
+PyYAML==6.0
+python-box[PyYAML]==6.0.2
